@@ -1,0 +1,23 @@
+{
+  "name": "simchecker_np",
+  "version": "1.0.0",
+  "description": "Check the simcard type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayami007/simchecker_np.git"
+  },
+  "keywords": [
+    "simcardchecker",
+    "nepal"
+  ],
+  "author": "Bibesh Manandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayami007/simchecker_np/issues"
+  },
+  "homepage": "https://github.com/sayami007/simchecker_np#readme"
+}
